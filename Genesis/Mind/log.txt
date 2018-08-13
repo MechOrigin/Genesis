@@ -1,0 +1,78 @@
+[01:54:16:PM]: Mind v2.0 started on Windows 10
+
+A fatal error occurred: java.lang.Error: Unresolved compilation problems: 
+	Document cannot be resolved to a type
+	Jsoup cannot be resolved
+	Document cannot be resolved to a type
+	Jsoup cannot be resolved
+	Elements cannot be resolved to a type
+	Element cannot be resolved to a type
+	Element cannot be resolved to a type
+
+
+-----=[General Stack Trace]=-----
+genesis.Wikiparser.main() on line 54
+genesis.Mind.respond() on line 83
+genesis.Mind.start() on line 57
+genesis.Mind.<init>() on line 35
+genesis.Mind.main() on line 20
+-----=[Mind Stack Trace]=-----
+
+-----=[Mind Stack Trace]=-----
+genesis.Wikiparser.main() on line 54
+genesis.Mind.respond() on line 83
+genesis.Mind.start() on line 57
+genesis.Mind.<init>() on line 35
+genesis.Mind.main() on line 20
+-----=[Genesis Stack Trace]=-----
+
+-----=[Remote Stack Trace]=-----
+This doesn't look like a problem with anything outside Mind. Check the above Mind stack trace.
+-----=[Remote Stack Trace]=-----
+
+[01:54:26:PM]: Mind v2.0 shut down with error code: 1
+[01:56:50:PM]: Mind v2.0 started on Windows 10
+
+A fatal error occurred: java.lang.Error: Unresolved compilation problems: 
+	Document cannot be resolved to a type
+	Jsoup cannot be resolved
+	Document cannot be resolved to a type
+	Jsoup cannot be resolved
+	Elements cannot be resolved to a type
+	Element cannot be resolved to a type
+	Element cannot be resolved to a type
+
+
+-----=[General Stack Trace]=-----
+genesis.Wikiparser.main() on line 54
+genesis.Mind.respond() on line 82
+genesis.Mind.start() on line 56
+genesis.Mind.<init>() on line 34
+genesis.Mind.main() on line 19
+-----=[Mind Stack Trace]=-----
+
+-----=[Mind Stack Trace]=-----
+genesis.Wikiparser.main() on line 54
+genesis.Mind.respond() on line 82
+genesis.Mind.start() on line 56
+genesis.Mind.<init>() on line 34
+genesis.Mind.main() on line 19
+-----=[Genesis Stack Trace]=-----
+
+-----=[Remote Stack Trace]=-----
+This doesn't look like a problem with anything outside Mind. Check the above Mind stack trace.
+-----=[Remote Stack Trace]=-----
+
+[01:56:57:PM]: Mind v2.0 shut down with error code: 1
+[02:01:45:PM]: Mind v2.0 started on Windows 10
+[02:01:51:PM]: You: who is ed sheeran?
+[02:01:51:PM]: Mind: Edward Christopher Sheeran, MBE (/????r?n/; born 17 February 1991) is an English singer, songwriter, guitarist, record producer, actor and rapper. Sheeran was born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk. He attended the Academy of Contemporary Music in Guildford as an undergraduate from the age of 18 in 2009. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project..
+[02:01:58:PM]: Mind v2.0 started on Windows 10
+[02:02:04:PM]: You: what is a banana?
+[02:02:04:PM]: Mind: .
+[02:02:09:PM]: Mind v2.0 started on Windows 10
+[02:02:19:PM]: You: what is a kiwi?
+[02:02:19:PM]: Mind: Apteryx haastii Great spotted kiwi Apteryx owenii Little spotted kiwi Apteryx rowi Okarito brown kiwi Apteryx australis Southern brown kiwi Apteryx mantelli North Island brown kiwi.
+[02:02:28:PM]: Mind v2.0 started on Windows 10
+[02:02:33:PM]: You: what is a kiwi fruit?
+[02:02:33:PM]: Mind: Edward Christopher Sheeran, MBE (/????r?n/; born 17 February 1991) is an English singer, songwriter, guitarist, record producer, actor and rapper. Sheeran was born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk. He attended the Academy of Contemporary Music in Guildford as an undergraduate from the age of 18 in 2009. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project..
