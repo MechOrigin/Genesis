@@ -51,7 +51,7 @@ public static void main() throws IOException {
         
 //        String url = "https://www.google.com/search?q=" + query + "&num=3"; //&num=25 will return the top 25 results for a search query
         
-        Document doc = Jsoup.connect("http://en.wikipedia.org/wiki/" + query.replace(" ", "_").replace("who_is", "").replace("what_is_a", "")).get();
+        Document doc = Jsoup.connect("http://en.wikipedia.org/wiki/" + query.replace(" ", "_").replace("who_is", "").replace("what_is_a", "").replace("what_is", "")).get();
 
 //        Document doc = Jsoup
 //                .connect(url)
@@ -135,7 +135,7 @@ public static void main() throws IOException {
         //end
         */  
 
-Document doc3 = Jsoup.connect("http://en.wikipedia.org/wiki/" + query.replace(" ", "_").replace("who_is_", "").replace("what_is_a", "")).get();
+Document doc3 = Jsoup.connect("http://en.wikipedia.org/wiki/" + query.replace(" ", "_").replace("who_is_", "").replace("what_is_a", "").replace("what_is", "")).get();
     Elements paragraphs = doc3.select(".mw-content-ltr p");
 
     Element firstParagraph = paragraphs.first();

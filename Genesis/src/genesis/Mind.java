@@ -135,7 +135,7 @@ public boolean respond(String s) { //decide how and what to respond, return if w
         ArrayList<String>  arr=new ArrayList<String>(Arrays.asList(strar));
         for(int x=0;x<arr.size();x++){
         	output2 = arr.get(x);
-        	fm.setResponse(ResponseType.SAVEDSTRING, removeEndPunc(output2));
+        	fm.setResponse(ResponseType.LEARNED_WORDS, removeEndPunc(output2));
 //            System.out.println(output2);
            
         }

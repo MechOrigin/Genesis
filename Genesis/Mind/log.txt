@@ -76,3 +76,24 @@ This doesn't look like a problem with anything outside Mind. Check the above Min
 [02:02:28:PM]: Mind v2.0 started on Windows 10
 [02:02:33:PM]: You: what is a kiwi fruit?
 [02:02:33:PM]: Mind: Edward Christopher Sheeran, MBE (/????r?n/; born 17 February 1991) is an English singer, songwriter, guitarist, record producer, actor and rapper. Sheeran was born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk. He attended the Academy of Contemporary Music in Guildford as an undergraduate from the age of 18 in 2009. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project..
+[02:20:39:PM]: Mind v2.0 started on Windows 10
+[02:20:46:PM]: You: what is sports?
+[02:20:46:PM]: Mind: Apteryx haastii Great spotted kiwi Apteryx owenii Little spotted kiwi Apteryx rowi Okarito brown kiwi Apteryx australis Southern brown kiwi Apteryx mantelli North Island brown kiwi.
+[02:21:35:PM]: Mind v2.0 started on Windows 10
+[02:21:41:PM]: You: what is sports?
+[02:21:41:PM]: Mind: Edward Christopher Sheeran, MBE (/????r?n/; born 17 February 1991) is an English singer, songwriter, guitarist, record producer, actor and rapper. Sheeran was born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk. He attended the Academy of Contemporary Music in Guildford as an undergraduate from the age of 18 in 2009. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project..
+[02:21:55:PM]: Mind v2.0 started on Windows 10
+[02:21:59:PM]: You: what is sports?
+[02:21:59:PM]: Mind: Sport (British English) or sports (American English) includes all forms of competitive physical activity or games which, through casual or organised participation, aim to use, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators. Hundreds of sports exist, from those between single contestants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals. In certain sports such as racing, many contestants may compete, simultaneously or consecutively, with one winner; in others, the contest (a match) is between two sides, each attempting to exceed the other. Some sports allow a tie game; others provide tie-breaking methods to ensure one winner and one loser. A number of contests may be arranged in a tournament producing a champion. Many sports leagues make an annual champion by arranging games in a regular sports season, followed in some cases by playoffs..
+[02:22:05:PM]: Mind v2.0 started on Windows 10
+[02:22:10:PM]: You: who is ed sheeran?
+[02:22:10:PM]: Mind: Edward Christopher Sheeran, MBE (/????r?n/; born 17 February 1991) is an English singer, songwriter, guitarist, record producer, actor and rapper. Sheeran was born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk. He attended the Academy of Contemporary Music in Guildford as an undergraduate from the age of 18 in 2009. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project..
+[02:23:46:PM]: Mind v2.0 started on Windows 10
+[02:23:51:PM]: You: who is ed sheeran?
+[02:23:51:PM]: Mind: Edward Christopher Sheeran, MBE (/????r?n/; born 17 February 1991) is an English singer, songwriter, guitarist, record producer, actor and rapper. Sheeran was born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk. He attended the Academy of Contemporary Music in Guildford as an undergraduate from the age of 18 in 2009. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project..
+[02:23:55:PM]: Mind v2.0 started on Windows 10
+[02:23:59:PM]: You: what is sports?
+[02:23:59:PM]: Mind: Edward Christopher Sheeran, MBE (/????r?n/; born 17 February 1991) is an English singer, songwriter, guitarist, record producer, actor and rapper. Sheeran was born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk. He attended the Academy of Contemporary Music in Guildford as an undergraduate from the age of 18 in 2009. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project..
+[02:24:02:PM]: Mind v2.0 started on Windows 10
+[02:24:15:PM]: You: who is tom cruise?
+[02:24:15:PM]: Mind: Edward Christopher Sheeran, MBE (/????r?n/; born 17 February 1991) is an English singer, songwriter, guitarist, record producer, actor and rapper. Sheeran was born in Halifax, West Yorkshire, and raised in Framlingham, Suffolk. He attended the Academy of Contemporary Music in Guildford as an undergraduate from the age of 18 in 2009. In early 2011, Sheeran independently released the extended play, No. 5 Collaborations Project..
